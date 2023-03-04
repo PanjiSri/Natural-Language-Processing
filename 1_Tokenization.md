@@ -17,5 +17,5 @@ Dokumen akan disegmentasi menjadi kalimat. Kemudian kalimat akan disegmentasi me
 
 
 ## Hands On
-https://colab.research.google.com/github/nitinpunjabi/nlp-demystified/blob/main/notebooks/nlpdemystified_preprocessing.ipynb![Picture-2](https://user-images.githubusercontent.com/116989429/222900860-bf181e27-eb36-4fd2-b9b0-3bd9c9b90a9d.png)
+https://colab.research.google.com/github/nitinpunjabi/nlp-demystified/blob/main/notebooks/nlpdemystified_preprocessing.ipynb
 
